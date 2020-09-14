@@ -1,0 +1,12 @@
+GIT repository for csci422/Lab3
+
+To start you off, you are provided with the following files:
+poset.h
+poset.cpp
+gen  (a perl file the generate poset data)
+testapp.cpp
+makefile
+
+pos.1000.o5
+pos.1000.05.treduc1
+
